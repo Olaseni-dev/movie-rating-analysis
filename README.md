@@ -1,3 +1,36 @@
-TMDb 5000 project
--------------------
-This project was part of the course Data science in practice (MGT-415), it focuses on the TMDb 5000 movies data found on kaggle (https://www.kaggle.com/tmdb/tmdb-movie-metadata). In this project we do a thourough analysis of data (EDA) and we try to fit a ML model to predict movies success (ratings and revenues).
+# Movie Ratings
+
+This project analyzes and predicts movie ratings based on various features.
+
+## Features
+- Data collection and preprocessing
+- Exploratory data analysis
+- Machine learning model training and evaluation
+
+## Setup
+1. **Clone the repository:**
+
+    ```bash
+    git clone https://github.com/Olaseni-dev/movie-ratings.git
+    ```
+
+2. **Install dependencies:**
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+3. **Run the Jupyter notebook:**
+
+    ```bash
+    jupyter notebook
+    ```
+
+## Usage
+
+Open the `movie_ratings_analysis.ipynb` notebook.
+Run the cells to see the analysis and model results.
+
+## Personal Insights
+
+This project provided me with valuable insights into feature selection and model evaluation techniques for regression problems.
